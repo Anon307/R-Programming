@@ -1,0 +1,10 @@
+x = c(1,7,5,2,3)
+
+cat("Mean :",mean(x))
+cat("Median :",median(x))
+cat("Variance :",var(x))
+cat("Standard deviation :",sd(x))
+cat("Standard scores :",scale(x))
+cat("Summary :",summary(x))
+cat("Rank :",rank(x))
+cat("Quantile :",quantile(x)) 
