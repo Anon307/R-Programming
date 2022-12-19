@@ -1,0 +1,6 @@
+data("iris")
+print( summary(iris))
+print(str(iris))
+print(head(iris,5))
+print(nrow(iris))
+print(ncol(iris))

@@ -1,0 +1,6 @@
+data("USPersonalExpenditure")
+print( summary(USPersonalExpenditure))
+print(str(USPersonalExpenditure))
+print(head(USPersonalExpenditure,5))
+print(nrow(USPersonalExpenditure))
+print(ncol(USPersonalExpenditure))

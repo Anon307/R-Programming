@@ -1,0 +1,6 @@
+data(mtcars)
+print( summary(mtcars))
+print(str(mtcars))
+print(head(mtcars,5))
+print(nrow(mtcars))
+print(ncol(mtcars))

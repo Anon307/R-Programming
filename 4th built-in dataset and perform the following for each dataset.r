@@ -1,0 +1,6 @@
+data("HairEyeColor")
+print( summary(HairEyeColor))
+print(str(HairEyeColor))
+print(head(HairEyeColor,5))
+print(nrow(HairEyeColor))
+print(ncol(HairEyeColor))
